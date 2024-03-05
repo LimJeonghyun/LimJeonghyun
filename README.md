@@ -23,27 +23,6 @@
    <a href="https://www.makeus.in/umc" target="_blank"><img src="https://img.shields.io/badge/-UMC-green?style=flat-square&logo=UMC&logoColor=white"/></a>
 </p>
 
-<br/>
-### :toolbox:Stacks
-<br/>
- Once I've used
-<p>
-  <img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=ios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  </p>
-  <br/>
-  Tools
-  <p>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </p>
-  
 </div>
 <!--
 **LimJeonghyun/LimJeonghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
