@@ -6,7 +6,7 @@
 
 <br/> 
 
-### 🍎 [About Me!](https://discreet-headline-ab1.notion.site/284b8cb6861840bea9516d6fa32c2d06) 🍎  
+### 🍎 [About Me!](https://discreet-headline-ab1.notion.site/796977beb9f4472bb2e97ce79c1d2aee?pvs=4) 🍎  
 
 ### 🍎 [Another Me!](https://github.com/42jeolim) 🍎
 
