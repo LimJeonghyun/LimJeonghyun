@@ -34,7 +34,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-  <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width = "5.3%" height = "5.3%"/>
+  <img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" width = "6%" height = "6%"/>
 </p>
 <br/>
 <br/>
