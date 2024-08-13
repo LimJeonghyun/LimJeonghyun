@@ -47,7 +47,6 @@
 <br/>
 <br/>
 
-### Stats
 <div align=center>
   <a href="https://solved.ac/wkrdmsahdzl/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkrdmsahdzl" width=359 height=153 alt="Solved.ac Profile">
