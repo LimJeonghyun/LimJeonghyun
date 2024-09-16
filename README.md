@@ -18,7 +18,7 @@
 ###### Langauges
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,swift" />
+    <img src="https://skillicons.dev/icons?i=swift,dart,c,cpp,python" />
   </a>
 </p>
 
@@ -41,8 +41,8 @@
   
 ### Activities
 <p>
+  <a href="https://www.makeus.in/umc" target="_blank"><img src="https://img.shields.io/badge/-UMC-green?style=flat-square&logo=UMC&logoColor=white"/></a>
   <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
-   <a href="https://www.makeus.in/umc" target="_blank"><img src="https://img.shields.io/badge/-UMC-green?style=flat-square&logo=UMC&logoColor=white"/></a>
 </p>
 <br/>
 <br/>
