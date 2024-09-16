@@ -7,7 +7,7 @@
 <br/> 
 
 ### Portfolio
-#### 🍎 [About Me](https://discreet-headline-ab1.notion.site/796977beb9f4472bb2e97ce79c1d2aee?pvs=4) 🍎  
+#### 🍎 [About Me](https://discreet-headline-ab1.notion.site/iOS-589077f61df140debcad43c58d9146ae?pvs=4) 🍎  
 
 
 <br/>
